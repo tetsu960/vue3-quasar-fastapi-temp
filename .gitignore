@@ -1,0 +1,5 @@
+/public/assets
+/vue/.vscode
+/vue/node_modules
+/vue/package-lock.json
+__pycache__
